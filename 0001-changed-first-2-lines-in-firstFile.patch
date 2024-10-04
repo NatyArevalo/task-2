@@ -1,0 +1,24 @@
+From 1fad0e439df5446d32d8390ce94b6e1370b78f18 Mon Sep 17 00:00:00 2001
+From: nataliaArevalo <natiarevalo32@hotmail.com>
+Date: Thu, 3 Oct 2024 21:40:57 -0500
+Subject: [PATCH] changed first 2 lines in firstFile
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index ef23bdc..c240349 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-Java
+-Especialization
++Changed line git_1
++Changed line git_1
+ run
+ 3
+ Course
+-- 
+2.46.2.windows.1
+

@@ -1,10 +1,10 @@
-Java
-Especialization
+Changed line git_1
+Changed line git_1
 run
 3
 Course
 For
 Git
 Advanced
-Natalia
-Arevalo
+Changed second line git_1
+Changed second line git_1
