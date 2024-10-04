@@ -2,8 +2,8 @@ Changed line git_1
 Changed line git_1
 run
 3
-Course
-For
+Changed line on folder2
+changed line on folder2
 Git
 Advanced
 Changed second line git_1
