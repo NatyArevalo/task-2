@@ -1,5 +1,5 @@
-This
-Is
+Changed Line
+Changed Line 2
 The
 Second
 File
