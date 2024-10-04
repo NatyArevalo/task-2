@@ -6,5 +6,5 @@ Course
 For
 Git
 Advanced
-Natalia
-Arevalo
+Changed second line git_1
+Changed second line git_1
