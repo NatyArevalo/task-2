@@ -1,6 +1,6 @@
 Changed line git_1
 Changed line git_1
-run
+Last line changed in git1
 3
 Changed line on folder2
 changed line on folder2
